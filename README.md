@@ -1,1 +1,3 @@
 # snippets
+
+Arbitrary code snippets.
